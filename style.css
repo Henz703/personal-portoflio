@@ -1,0 +1,40 @@
+#apps {
+    background-color: blue;
+
+}
+
+#games {
+background-color: blue;
+}
+
+
+.line  {
+
+    height: 6px;
+    width: 100px;
+    background-color: darkslategray;
+    margin: 5px auto;
+
+}
+
+.heading {
+text-align: center;
+color:  white;
+font-family: 'Times New Roman';
+
+
+
+}
+
+#chatbot  {
+background-color: blue;
+border-radius: 8px;
+}
+
+#game1 {
+height: 200px;
+width: 60%;
+
+
+}
+
